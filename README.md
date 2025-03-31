@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jallnock
-- 👀 I’m interested in ... music, true crime, learning to code! 
-- 🌱 I’m currently learning ... everything ...
+- 👀 I’m interested in ... music, true crime, React! 
 - 😄 Pronouns: ... she / her / hers
 
 <!---
